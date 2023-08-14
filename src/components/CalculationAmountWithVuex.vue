@@ -87,7 +87,7 @@ export default {
     return {
       price: "",
       amount: "",
-      qty: null,
+      qty: "",
     };
   },
   watch: {

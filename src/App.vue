@@ -1,8 +1,8 @@
 <template>
   <div id="app">
     <nav>
-      <router-link to="/">Без vuex</router-link> |
-      <router-link to="/about">c Vuex</router-link>
+      <router-link to="/">C vuex</router-link> |
+      <router-link to="/about">Без Vuex</router-link>
     </nav>
     <router-view />
   </div>
